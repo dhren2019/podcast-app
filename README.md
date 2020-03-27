@@ -19,9 +19,9 @@ La app necesita los siguientes packages:
 
 ```bash
 # Para usar el repositorio clonar de Github 
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/electron/electron-podcast-app
 # electron-podcast-app
-cdelectron-podcast-app
+cd electron-podcast-app
 # Instalar dependencias
 npm install
 # Ejecutar app
