@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-app';
+
+  images = [400, 200, 300].map((n) => `https://picsum.photos/id/${n}/1024/500`);
+
 }
